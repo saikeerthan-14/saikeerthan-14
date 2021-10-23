@@ -38,7 +38,7 @@
 
 - 💬 Ask me about anything and everything!
 - 📄  Brainstorm with me over tech, algorithms, career, and music.
-<!-- - ⚡  Checkout my [resume](https://drive.google.com/file/d/1CklBrU_grA5DG987A6sQVXiuQsdtaNCK/view?usp=sharing) -->
+<!-- - ⚡  Checkout my [resume](resume drive link) -->
 - 💬 Ping Me about #DSA, #Algorithms, #Coding, #Space, #Chess and anything you like
 - 📫 How to reach me: message me at [LinkedIn](https://www.linkedin.com/in/saikeerthan/)
 
