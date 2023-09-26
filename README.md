@@ -7,13 +7,12 @@
 
 ## Hi there 👋👋,
 
-### I'm Sai Keerthan Palavarapu, Working as 👨‍💻 SDE II at CityMall. Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research.
+### I'm Sai Keerthan Palavarapu. Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research.
 -------
   
 ## 🧐 About me
 
 - 🏄‍ I’m Quick learner and expert in handling critical tasks
-- 🔭 I am currently working as SDE-2 in CityMall.
 - 🌱 I love to code and love to talk about space science especially Einstein theory of relativity.
 - 🔭 I’m currently learning Python Django.
 - 👯 I’m looking to collaborate on Competative coding
