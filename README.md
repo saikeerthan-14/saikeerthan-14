@@ -1,5 +1,5 @@
 # Sai Keerthan Palavarapu 👨‍💻
-[![Outlook Badge](https://img.shields.io/badge/-saikeethan.p123@outlook.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:saikeethan.p123@outlook.com)](mailto:saikeethan.p123@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-spalavar@syr.edu-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:spalavar@syr.edu)](mailto:spalavar@syr.edu)
 [![Linkedin Badge](https://img.shields.io/badge/-saikeerthan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikeerthan/)](https://www.linkedin.com/in/saikeerthan/)
 [![GitHub followers](https://img.shields.io/github/followers/saikeerthan-14?label=Follow&style=social)](https://github.com/saikeerthan-14/?tab=follow)
 ![](https://komarev.com/ghpvc/?username=saikeerthan-14&color=24292E&style=flat-square&label=Profile+visitors)
@@ -14,7 +14,7 @@
 
 - 🏄‍ I’m Quick learner and expert in handling critical tasks
 - 🌱 I love to code and love to talk about space science especially Einstein theory of relativity.
-- 🔭 I’m currently learning Python Django.
+- 🔭 I’m currently focusing on Machine Learning and interested to collaborate in ML/DL projects.
 - 👯 I’m looking to collaborate on Competative coding
 - 😄 And Many More...
 
