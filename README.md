@@ -49,9 +49,11 @@
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikeerthan-14&theme=dark&show_icons=true" width =550 />
+<!--
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikeerthan-14&theme=dark"  width=550/>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikeerthan-14&theme=dark" width =350/>
+-->
+
 
 
 ### Random Joke Generator
