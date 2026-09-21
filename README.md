@@ -45,16 +45,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/saki_007) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/saikeerthan14/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='40'>](https://www.hackerearth.com/@saikeerthan)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/saikeerthan_p121)
 
-## Git stats
----
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikeerthan-14&theme=dark&show_icons=true" width =550 />
-<!--
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikeerthan-14&theme=dark"  width=550/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikeerthan-14&theme=dark" width =350/>
--->
-
-
 
 ### Random Joke Generator
 ---
