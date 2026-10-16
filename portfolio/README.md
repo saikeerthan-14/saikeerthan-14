@@ -1,27 +1,28 @@
 # Sai Keerthan — portfolio
 
-A responsive, dependency-free portfolio and a controllable 42-second elevator pitch.
+Static portfolio and a controllable 48-second elevator pitch. Built with HTML, CSS, JavaScript, and local fonts. No build step or secrets required.
 
-## Preview
+## Local preview
 
 ```sh
-cd portfolio
 python3 -m http.server 4173
 ```
 
-Open http://localhost:4173. The pitch is at `/elevator-pitch/`.
+Visit http://localhost:4173 and `/elevator-pitch/`.
 
-## Deploy on Vercel
+## Publishing
 
-Import `saikeerthan-14/saikeerthan-14`. Set **Root Directory** to `portfolio`, **Framework Preset** to **Other**, leave Build Command unset, and use `.` as the output directory. No environment variables are required.
+This directory is published at https://saikeerthan-14.github.io/ from the dedicated `saikeerthan-14/saikeerthan-14.github.io` repository. GitHub Pages uses the `main` branch root. `.nojekyll` preserves the static files without Jekyll processing.
 
-Alternatively, run `npx vercel --prod` from this directory after signing in.
+The original copy is also retained in the profile repository under `portfolio/`. Future website edits should be made in the dedicated Pages repository.
 
-## Editing
+## Content and controls
 
-- `index.html`: portfolio and contact links.
-- `elevator-pitch/index.html`: player and accessible transcript.
-- `pitch.js`: seven scenes, each lasting six seconds.
-- `style.css`: layout, responsive styles, local fonts, and reduced-motion support.
+- `index.html`: introduction, project showcase, contribution links, contact.
+- `elevator-pitch/index.html`: player and accessible text transcript.
+- `pitch.js`: eight chapters, six seconds each. Play/pause, seek, restart, chapter selection, and keyboard controls.
+- `style.css`: responsive design and reduced-motion support.
 
-Project descriptions reflect the linked public source at the time of writing. PRs are described as submitted, without implying they were merged. No analytics, contact-form backend, external font requests, or API keys are used.
+The embedded pitch plays automatically unless reduced motion is enabled. The standalone pitch starts paused. Playback pauses when its document is hidden. This is a silent browser presentation; no audio track is included.
+
+Public projects and PRs are linked with their documented status. The scheduling illustration is conceptual, not benchmark data.

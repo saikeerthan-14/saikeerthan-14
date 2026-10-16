@@ -2,7 +2,7 @@
 
 I work on **backend systems and developer tools**. My projects explore the boundaries between local files and remote storage, scheduling policies and process execution, and developers and their workspaces.
 
-[LinkedIn](https://www.linkedin.com/in/saikeerthan/) · [Email](mailto:saikeerthanp.su@gmail.com)
+[Portfolio](https://saikeerthan-14.github.io/) · [Elevator pitch](https://saikeerthan-14.github.io/elevator-pitch/) · [LinkedIn](https://www.linkedin.com/in/saikeerthan/) · [Email](mailto:saikeerthanp.su@gmail.com)
 
 ## Selected projects
 
