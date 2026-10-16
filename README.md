@@ -1,67 +1,41 @@
-# Sai Keerthan Palavarapu 👨‍💻
-[![Outlook Badge](https://img.shields.io/badge/-saikeerthanp.su@gmail.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:saikeerthanp.su@gmail.com)](mailto:saikeerthanp.su@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-saikeerthan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikeerthan/)](https://www.linkedin.com/in/saikeerthan/)
-![](https://komarev.com/ghpvc/?username=saikeerthan-14&color=24292E&style=flat-square&label=Profile+visitors)
-<!-- [![GitHub followers](https://img.shields.io/github/followers/saikeerthan-14?label=Follow&style=social)](https://github.com/saikeerthan-14/?tab=follow) -->
----
+![Sai Keerthan Palavarapu — Software Engineer](assets/header.svg)
 
-## Hi there 👋👋,
+I work on **backend systems and developer tools**. My projects explore the boundaries between local files and remote storage, scheduling policies and process execution, and developers and their workspaces.
 
-### I'm Sai Keerthan Palavarapu. Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research.
--------
-  
-## 🧐 About me
+[LinkedIn](https://www.linkedin.com/in/saikeerthan/) · [Email](mailto:saikeerthanp.su@gmail.com) · [Resume](https://drive.google.com/file/d/1klL1XmBiOPE7JUwOcQqPn3D5b0GUgbP7/view) · [LeetCode](https://leetcode.com/saikeerthan14/)
 
-- 🏄‍ I’m Quick learner and expert in handling critical tasks
-- 🌱 I love to code and love to talk about space science especially Einstein theory of relativity.
-- 🔭 I’m currently focusing on Machine Learning and interested to collaborate in ML/DL projects.
-- 👯 I’m looking to collaborate on Competative coding
-- 😄 And Many More...
+## Selected projects
 
+[![Distributed filesystem — C++, gRPC, FUSE](assets/filesystem.svg)](https://github.com/saikeerthan-14/distributed_file_system)
 
-### 🔨 Languages and Tools:
----
+A single-server prototype for remote reads, writes, metadata, and deletion through a Linux filesystem mount. Explores timestamp-based write rejection; caching, replication, and authentication remain future work.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver15" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40"/> </a>
-<a href="https://databricks.com/product/azure" target="_blank"> <img src="https://raw.githubusercontent.com/David-Summers/Azure-Design/master/SVG_Azure_All/Azure%20Databricks.svg" alt="databricks" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-</p>
+[![Multi-repository workspaces — Go, JavaScript](assets/workspace.svg)](https://github.com/saikeerthan-14/px0-multi-repo-workspace)
 
+A proposed workspace layer for px0 using repository-specific servers and a shared hub. The default-branch README documents the design and tradeoffs, and identifies compilation and testing as unverified.
 
-# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="24px">
+[![CPU scheduling simulator — C++, algorithms](assets/scheduling.svg)](https://github.com/saikeerthan-14/cpu-scheduling-sim)
 
-- 💬 Ask me about anything and everything!
-- 📄  Brainstorm with me over tech, algorithms, career, and music.
-- ⚡  Checkout my [resume](https://drive.google.com/file/d/1klL1XmBiOPE7JUwOcQqPn3D5b0GUgbP7/view?usp=sharing)
-- 💬 Ping Me about #DSA, #Algorithms, #Coding, #Space, #Chess and anything you like
-- 📫 How to reach me: message me at [LinkedIn](https://www.linkedin.com/in/saikeerthan/)
+A course project exploring first-come first-served, shortest remaining time, round robin, and priority scheduling through process input and output traces.
 
-## Coding profiles
----
+## Open-source work
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/saki_007) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/saikeerthan14/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='40'>](https://www.hackerearth.com/@saikeerthan)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/saikeerthan_p121)
+Submitted pull requests, with implementation details and current review status:
 
+- **[RocksDB #15410](https://github.com/facebook/rocksdb/pull/15410)** — prevent leveled TTL compactions when TTL exceeds the current time.
+- **[Azure Developer CLI #10516](https://github.com/Azure/azure-dev/pull/10516)** — reject unresolved deployment stack variables.
+- **[Azure Developer CLI #10514](https://github.com/Azure/azure-dev/pull/10514)** — honor publish metadata in automatic Teams packages.
 
-### Random Joke Generator
----
-![Jokes Card](https://readme-jokes.vercel.app/api)
+## Tools I work with
 
-<!--
-**saikeerthan-14/saikeerthan-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Area | Tools |
+| --- | --- |
+| Systems | C++ · gRPC · FUSE · Linux · CMake |
+| Developer tools | Go · JavaScript · Git |
+| Data and exploration | Python · Jupyter |
 
-Here are some ideas to get you started:
+## What’s next
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m interested in **backend and systems engineering** roles involving storage, infrastructure, and developer experience.
 
- -->
+If your team is working on those problems, [let’s connect](mailto:saikeerthanp.su@gmail.com).
